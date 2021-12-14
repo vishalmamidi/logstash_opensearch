@@ -1,10 +1,10 @@
 # logstash_opensearch
 
 plugin issue reinstall plugins 
-
+```
 bin/logstash-plugin uninstall logstash-output-opensearch
 bin/logstash-plugin install logstash-output-opensearch
-
+```
 
 for plugins refer https://docs.aws.amazon.com/opensearch-service/latest/developerguide/managedomains-logstash.html
 
